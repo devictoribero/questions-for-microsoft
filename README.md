@@ -11,8 +11,14 @@
 # Programming
 - Will I code with react and the technologies you requested? Or on he other hand there is a lot of legacy code and I'll have to deal with it
 
+# Team
+- How are the teams organized and who decided that organization?
+- What kind of people there are every team and which is their mission?
+
 # Management
 - What is the team's biggest challenge right now?
 - Can you tell me about a time you resolved an interpersonal conflict?
-- How often programmers change project or technologies
-- Perks?
+- How often programmers change project or technologies?
+- Perks? Private insurance? Flights to Barcelona? Remote-working?
+
+Salary?
