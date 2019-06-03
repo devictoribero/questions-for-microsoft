@@ -20,5 +20,8 @@
 - Can you tell me about a time you resolved an interpersonal conflict?
 - How often programmers change project or technologies?
 - Perks? Private insurance? Flights to Barcelona? Remote-working?
+- Salary?
 
-Salary?
+# closing
+- Is there anything about my background or resume that makes you question whether I am a good fit for this role?
+
